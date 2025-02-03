@@ -4,12 +4,12 @@ Zig Learning Journey: Personal playground for learning Zig syntax and concepts.
 ## Learning Checklist
 
 ### 🌟 Getting Started
-- [ ] Install Zig compiler and tools
-- [ ] Set up development environment
-- [ ] Write first "Hello, World!" program
-- [ ] Learn how to run and build programs
-- [ ] Understanding basic project structure
-- [ ] Running and writing tests
+- [x] Install Zig compiler and tools
+- [x] Set up development environment
+- [x] Write first "Hello, World!" program
+- [x] Learn how to run and build programs
+- [x] Understanding basic project structure
+- [x] Running and writing tests
 
 ### 🔧 Core Language Fundamentals
 - [ ] Variables and data types
