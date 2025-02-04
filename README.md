@@ -1,4 +1,4 @@
-# learn-zig
+# My Zig Learning Journey
 Zig Learning Journey: Personal playground for learning Zig syntax and concepts.
 
 ## Learning Checklist
@@ -12,8 +12,8 @@ Zig Learning Journey: Personal playground for learning Zig syntax and concepts.
 - [x] Running and writing tests
 
 ### 🔧 Core Language Fundamentals
-- [ ] Variables and data types
-- [ ] Control flow (if, while, for)
+- [x] Variables and data types
+- [x] Control flow (if, while, for)
 - [ ] Functions and error handling
 - [ ] Arrays and slices
 - [ ] Pointers and memory management
@@ -25,7 +25,7 @@ Zig Learning Journey: Personal playground for learning Zig syntax and concepts.
 - [ ] Basic I/O operations
 - [ ] String handling
 - [ ] Memory allocation
-- [ ] File system operations
+- [x] File system operations
 - [ ] Data structures
 - [ ] Error sets and handling
 
